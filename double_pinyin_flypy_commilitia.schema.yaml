@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 menu:
-  page_size: 9
+  page_size: 10
   
 style:
   font_face: "CommilitiaFont UI TC"
