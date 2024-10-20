@@ -9,7 +9,7 @@ style:
 
 schema:
   schema_id: double_pinyin_flypy_commilitia
-  name: 小鹤双拼
+  name: 小鹤双拼简繁
   version: "0.18"
   author:
     - double pinyin layout by 鶴
